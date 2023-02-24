@@ -1,0 +1,14 @@
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\bin\Debug\netcoreapp3.1\p2pserver.exe
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\bin\Debug\netcoreapp3.1\p2pserver.deps.json
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\bin\Debug\netcoreapp3.1\p2pserver.runtimeconfig.json
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\bin\Debug\netcoreapp3.1\p2pserver.runtimeconfig.dev.json
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\bin\Debug\netcoreapp3.1\p2pserver.dll
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\bin\Debug\netcoreapp3.1\p2pserver.pdb
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.csproj.AssemblyReference.cache
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.AssemblyInfoInputs.cache
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.AssemblyInfo.cs
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.csproj.CoreCompileInputs.cache
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.dll
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.pdb
+C:\Users\ACER\NBCodes\source\repos\p2pserver\p2pserver\obj\Debug\netcoreapp3.1\p2pserver.genruntimeconfig.cache
